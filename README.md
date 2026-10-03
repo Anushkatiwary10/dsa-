@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Anushkatiwary10/dsa-/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anushkatiwary10/dsa-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Anushkatiwary10/dsa-/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Anushkatiwary10/dsa-/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anushkatiwary10/dsa-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Anushkatiwary10/dsa-/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anushkatiwary10/dsa-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
