@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
@@ -21,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
