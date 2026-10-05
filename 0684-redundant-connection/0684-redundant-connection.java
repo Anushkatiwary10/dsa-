@@ -1,43 +1,44 @@
 class Solution {
-    public int[] findRedundantConnection(int[][] edges) {
-        int n=edges.length;
-        ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
-        for(int i = 0; i <= n; i++){
-            list.add(new ArrayList<>());
+    int[] parent;
+
+    public int[] findRedundantConnection(int[][] edges) {
+
+        int n = edges.length;
+
+        parent = new int[n + 1];
+
+        // Initially, every node is its own parent
+        for(int i = 1; i <= n; i++){
+            parent[i] = i;
         }
-        for(int edge[]:edges){
-            int u=edge[0];
-            int v=edge[1];
-            int[] visited = new int[n + 1];
-            if(dfs(u, v, visited, list)){
-                return edge;
+
+        for(int[] edge : edges){
+
+            int u = edge[0];
+            int v = edge[1];
+
+            int rootU = find(u);
+            int rootV = find(v);
+
+            // Already connected → adding this edge creates a cycle
+            if(rootU == rootV){
+                return new int[]{u, v};
             }
-            list.get(u).add(v);
-            list.get(v).add(u);
+
+            // Join the two components
+            parent[rootV] = rootU;
         }
+
         return new int[]{};
     }
-    public boolean dfs(int node, int target,
-                       int[] visited,
-                       ArrayList<ArrayList<Integer>> list){
 
-        if(node == target){
-            return true;
+    public int find(int x){
+
+        if(parent[x] == x){
+            return x;
         }
 
-        visited[node] = 1;
-
-        for(int neighbor : list.get(node)){
-
-            if(visited[neighbor] == 0){
-
-                if(dfs(neighbor, target, visited, list)){
-                    return true;
-                }
-            }
-        }
-
-        return false;
+        return find(parent[x]);
     }
 }
