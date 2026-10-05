@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anushkatiwary10/dsa-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Anushkatiwary10/dsa-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkatiwary10/dsa-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Anushkatiwary10/dsa-/tree/master/0841-keys-and-rooms) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anushkatiwary10/dsa-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Anushkatiwary10/dsa-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anushkatiwary10/dsa-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Anushkatiwary10/dsa-/tree/master/0841-keys-and-rooms) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Anushkatiwary10/dsa-/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Anushkatiwary10/dsa-/tree/master/0695-max-area-of-island) |
 | [0886-possible-bipartition](https://github.com/Anushkatiwary10/dsa-/tree/master/0886-possible-bipartition) |
 ## Matrix
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/Anushkatiwary10/dsa-/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Anushkatiwary10/dsa-/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Anushkatiwary10/dsa-/tree/master/0886-possible-bipartition) |
 ## Graph Coloring
