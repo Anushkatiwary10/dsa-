@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anushkatiwary10/dsa-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anushkatiwary10/dsa-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anushkatiwary10/dsa-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anushkatiwary10/dsa-/tree/master/0133-clone-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Graph Theory
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Anushkatiwary10/dsa-/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Anushkatiwary10/dsa-/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anushkatiwary10/dsa-/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Anushkatiwary10/dsa-/tree/master/0886-possible-bipartition) |
+## String
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anushkatiwary10/dsa-/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
